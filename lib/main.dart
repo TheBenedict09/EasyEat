@@ -1,3 +1,4 @@
+import 'package:easyeat/pages/home_page.dart';
 import 'package:easyeat/pages/welcome_page.dart';
 import 'package:flutter/material.dart';
 
